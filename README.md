@@ -29,14 +29,18 @@ File Handling: Used for persistent data storage Getting Started
 **Follow these steps to set up and run the project on your local system.**
 
 1)Clone the repository to your local system:
+
     git clone https://github.com/Lingaraju-m/BankAccountManagementSystem.git
+
     cd BankAccountManagementSystem
 
 
 2)Compile the Java program:
+
     javac BankAccountManagementSystem.java
     
 3)Run the program:
+
     java BankAccountManagementSystem
 
 
@@ -56,7 +60,9 @@ All account data is saved in the accounts.txt file, ensuring it persists across 
 **Project Structure**
 
 BankAccountManagementSystem/
+
 ├── accounts.txt         # Data file to store account details
+
 ├── BankAccountManagementSystem.java  # Main program file
 
 
